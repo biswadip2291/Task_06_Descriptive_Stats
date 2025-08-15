@@ -1,0 +1,5 @@
+Using the `games_df` DataFrame, I need to analyze the team's performance specifically in the games they lost. Please perform the following steps:
+1.  Establish the baseline season averages: "Goals Scored per game" (12.37) and "Goals Against per game" (11.63).
+2.  Filter the DataFrame to include ONLY the games the team lost.
+3.  Calculate the average goals scored and average goals against in those losses.
+4.  Present a summary table comparing the Season Average vs. the Average in Losses, and calculate the "Performance Gap" for both offense and defense.

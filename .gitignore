@@ -1,0 +1,10 @@
+# Ignore CSV data files to prevent committing raw data
+*.csv
+
+# Ignore Python cache files and virtual environments
+__pycache__/
+venv/
+*.pyc
+
+# Ignore system files
+.DS_Store

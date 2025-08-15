@@ -1,0 +1,6 @@
+Our strategic focus is OFFENSE. I need you to identify a 'game changer' player with high potential for improvement.
+1. Calculate the overall team shooting percentage (235 Goals / 538 Shots).
+2. Filter for high-volume shooters (>= 40 shots).
+3. For this group, calculate each player's individual shooting percentage.
+4. Identify a player from this group with a high number of shots but a shooting percentage below the team average.
+5. Recommend one player and explain why they represent the best opportunity for improvement.
