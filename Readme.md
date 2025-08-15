@@ -133,7 +133,5 @@ This research demonstrated that LLMs can be guided to produce **complex, data-dr
 - Problems are broken into steps  
 - Outputs are validated by the analyst  
 
-**Future Direction:**  
-- As suggested by Professor Strome, present findings in a more narrative, accessible format (e.g., **“AI Street Interview”**)  
 
 ---
